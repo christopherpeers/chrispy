@@ -41,8 +41,16 @@ I thought what I'd do was, I'd become a Python Programmer.
 <img align="left" alt="Salmon" title="Salmon" width="100px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Salmo_salar.jpg" />
 <img align="left" alt="Tuna" title="Tuna" width="100px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Thunnus_obesus.png" />
 <img align="left" alt="Flounder" title="Flounder" width="100px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Pseudopleuronectes_americanus.jpg" />
+  <br/>
+  <br/>
+  <br/>
+<img align="left" alt="Lionfish" title="Lionfish" width="100px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/FMIB_42560_Pterois_sphex_Jordan_%26_Evermann%3B_from_the_type_2.jpeg" />
 <img align="left" alt="Pike" title="Pike" width="100px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Esox_lucius1.jpg" />
 <img align="left" alt="Emperor angelfish" title="Emperor angelfish" width="100px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Pomocanthus_imperator_facing_right.jpg" />
+  <br/>
+  <br/>
+  <br/>
+  <br/>
 <img align="left" alt="Anchovy" title="Anchovy" width="100px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Engraulis_encrasicolus_Gervais_flipped.jpg" />
 <p>
   <br/>
