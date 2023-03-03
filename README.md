@@ -37,7 +37,7 @@ I thought what I'd do was, I'd become a Python Programmer.
 <br/>
 
 ---
-### Rare Fish Portfolio
+## Rare Fish Portfolio
 <img align="left" alt="Salmon" title="Salmon" width="100px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Salmo_salar.jpg" />
 <img align="left" alt="Tuna" title="Tuna" width="100px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Thunnus_obesus.png" />
 <img align="left" alt="Flounder" title="Flounder" width="100px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Pseudopleuronectes_americanus.jpg" />
