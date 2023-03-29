@@ -41,23 +41,23 @@ I thought what I'd do was, I'd become a Python Programmer.
 <img align="left" alt="Salmon" title="Salmon" width="100px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Salmo_salar.jpg" />
 <img align="left" alt="Tuna" title="Tuna" width="100px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Thunnus_obesus.png" />
 <img align="left" alt="Flounder" title="Flounder" width="100px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Pseudopleuronectes_americanus.jpg" />
-  <br/>
-  <br/>
-  <br/>
+
 <img align="left" alt="Lionfish" title="Lionfish" width="100px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/FMIB_42560_Pterois_sphex_Jordan_%26_Evermann%3B_from_the_type_2.jpeg" />
 <img align="left" alt="Pike" title="Pike" width="100px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Esox_lucius1.jpg" />
 <img align="left" alt="Emperor angelfish" title="Emperor angelfish" width="100px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Pomocanthus_imperator_facing_right.jpg" />
-  <br/>
-  <br/>
-  <br/>
-  <br/>
-<img align="left" alt="Anchovy" title="Anchovy" width="100px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Engraulis_encrasicolus_Gervais_flipped.jpg" />
+
+
+<img align="left" alt="Giant gourami" title="Giant gourami" width="100px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Osphronemus_goramy_albino_2015_G1.jpg" />
+<img align="left" alt="" title="" width="100px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Fish_and_chips_blackpool.jpg" />
 <p>
   <br/>
 </p>
-<img align="left" alt="Giant gourami" title="Giant gourami" width="100px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Osphronemus_goramy_albino_2015_G1.jpg" />
-
-
-
-
+<p>
+  <br/>
+</p>
+<img align="left" alt="" title="" width="100px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/7/70/Whitesaddle_goatfish_2.jpg" />
+<img align="left" alt="" title="" width="100px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Ribbon_Moray_%28Rhinomuraena_quaesita%29_%286052858389%29.jpg" />
+<img align="left" alt="" title="" width="100px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Chaetodon_ephippium_PLW_edit.jpg" />
+<img align="left" alt="" title="" width="100px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Diodon_nicthemerus.jpg" />
+<img align="left" alt="" title="" width="100px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/9/97/Bep_chaetodon_punctatofasciatus.jpg" />
 
