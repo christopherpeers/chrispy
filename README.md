@@ -48,7 +48,7 @@ I thought what I'd do was, I'd become a Python Programmer.
 
 
 <img align="left" alt="Giant gourami" title="Giant gourami" width="100px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Osphronemus_goramy_albino_2015_G1.jpg" />
-<img align="left" alt="" title="" width="100px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Fish_and_chips_blackpool.jpg" />
+
 <p>
   <br/>
 </p>
