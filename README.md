@@ -1,4 +1,4 @@
-I thought what I'd do was, I'd become a Python Programmer.
+I thought what I'd do was, I'd become one of those Python Programmers.
 
 ---
 ### Skills
