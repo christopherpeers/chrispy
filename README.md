@@ -5,9 +5,9 @@ I thought what I'd do was, I'd become one of those Python Programmers.
 Mechanical Engineering    
 Supervised by Chengxu Zhou    
 Real Robotics Lab
-
-My colleague is Jake Smith
-Acuity Robotics
+    
+My colleague is Jake Smith    
+Acuity Robotics   
 --Obligatory Formal Section End--   
 
 ---
