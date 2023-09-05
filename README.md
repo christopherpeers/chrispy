@@ -1,15 +1,5 @@
 I thought what I'd do was, I'd become one of those Python Programmers.
 
---Obligatory Formal Section--   
-3rd Year PhD from the University of Leeds   
-Mechanical Engineering    
-Supervised by Chengxu Zhou    
-Real Robotics Lab
-    
-My colleague is Jake Smith    
-Acuity Robotics   
---Obligatory Formal Section End--   
-
 ---
 ### Skills
 
